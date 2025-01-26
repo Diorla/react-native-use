@@ -30,7 +30,7 @@
     </a>
     <br />
     Collection of essential <a href="https://reactjs.org/docs/hooks-intro.html">React Hooks</a> for react-native.</em>
-    <em>Port of</em> <a href="https://github.com/diorla/libreact"><code>react-use</code></a>.
+    <em>Port of</em> <a href="https://github.com/streamich/libreact"><code>react-use</code></a>.
     <br />
   </sup>
   <br />
