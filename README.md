@@ -44,3 +44,8 @@
   <br />
   <br />
 </div>
+
+- [**Lifecycles**](./docs/Lifecycles.md)
+  - [`useDeepCompareEffect`](./docs/useDeepCompareEffect.md), [`useShallowCompareEffect`](./docs/useShallowCompareEffect.md), and [`useCustomCompareEffect`](./docs/useCustomCompareEffect.md)
+    <br/>
+    <br/>
