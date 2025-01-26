@@ -1,12 +1,10 @@
-import { Text, View, StyleSheet } from 'react-native';
-import { multiply } from 'react-native-use';
-
-const result = multiply(3, 7);
+import { View, StyleSheet } from 'react-native';
+import CustomCompareEffect from './routes/custom-compare-effect';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Result: {result}</Text>
+      <CustomCompareEffect />
     </View>
   );
 }
