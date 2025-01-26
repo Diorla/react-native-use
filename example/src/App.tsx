@@ -2,6 +2,7 @@ import { View, StyleSheet } from 'react-native';
 import CustomCompareEffect from './routes/custom-compare-effect';
 import DeepCompareEffect from './routes/deep-compare-effect';
 import ShallowCompareEffect from './routes/shallow-compare-effect';
+import EffectOnce from './routes/effect-once';
 
 export default function App() {
   return (
@@ -9,6 +10,7 @@ export default function App() {
       <CustomCompareEffect />
       <DeepCompareEffect />
       <ShallowCompareEffect />
+      <EffectOnce />
     </View>
   );
 }
